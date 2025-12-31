@@ -8,3 +8,5 @@ Certificates of the completion of the MATHWORKS self-paced tutorial
 [https://matlabacademy.mathworks.com/progress/share/certificate.html?id=138432d8-97e8-4bb8-85b0-c29ca9365fb5&](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=b3047c00-a325-4278-bcda-736fda510bb0&)
 ## Control Design Onramp with Simulink Credential: 
 [https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fd694c57-2b98-4ba7-8927-e5ed724b9724&](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=d643995c-e6b0-4055-bea5-79328027e7a8&)
+## Parallel Computing Onramp: 
+[https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c6b5826d-ae91-4c65-8fb2-ca9849286f09&](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c6b5826d-ae91-4c65-8fb2-ca9849286f09&)
